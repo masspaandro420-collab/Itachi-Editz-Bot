@@ -5,14 +5,14 @@ from logging.handlers import RotatingFileHandler
 
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN "8565658575:AAEM0nJpeQ32pNO3igmx_TnPnbWct2xjIug")
+API_ID = int(os.environ.get("API_ID", "34082033"))
+API_HASH = os.environ.get("API_HASH", "3b03db55164d4baf22621352c8bea880")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "6299192020"))
-DB_URL = os.environ.get("DB_URL", "")
-DB_NAME = os.environ.get("DB_NAME", "Tecfreaktamil")
+OWNER_ID = int(os.environ.get("OWNER_ID "5170611470""))
+DB_URL = os.environ.get("DB_URL"https://t.me/demochannel123456")
+DB_NAME = os.environ.get("DB_NAME", "Demo")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "1003300996382"))
